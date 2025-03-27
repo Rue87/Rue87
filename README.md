@@ -39,6 +39,7 @@ Feel free to connect and explore my repositories! I'm always open to feedback an
 
 <div align="left">
     [LinkedIn](your_linkedin_profile_url)
+    [
 </div>
 
 <div align="center">
