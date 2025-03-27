@@ -17,11 +17,11 @@ Feel free to connect and explore my repositories! I'm always open to feedback an
 
 
 
-    -  Master the fundamentals of React and Node.js.<br>
-    -  Build a portfolio of at least 3 projects showcasing my skills in front-end development.<br>
-    -  Contribute to at least one open-source project.<br>
-    -  Continuously learn and stay up-to-date with the latest web development trends.<br>
-    -  Secure an entry-level front-end developer position.<br>
+    -  Master the fundamentals of React and Node.js.
+    -  Build a portfolio of at least 3 projects showcasing my skills in front-end development.
+    -  Contribute to at least one open-source project.
+    -  Continuously learn and stay up-to-date with the latest web development trends.
+    -  Secure an entry-level front-end developer position.
 
 🎲 Fun fact: "I once debugged a CSS issue for hours, only to find a missing pixel."
 
@@ -35,12 +35,23 @@ Feel free to connect and explore my repositories! I'm always open to feedback an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22" alt="git logo" />
 </div>
 
-## Socials
+## Connect With Me
 
-<div align="left">
-    [LinkedIn](your_linkedin_profile_url)
-    [
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="29" height="22" alt="LinkedIn logo"/>
+  </a>
+  <a href="https://discord.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="29" height="22" alt="Discord logo"/>
+  </a>
+  <a href="https://www.facebook.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="29" height="22" alt="Facebook logo"/>
+  </a>
+  <a href="https://telegram.org">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="29" height="22" alt="Telegram logo"/>
+  </a>
+</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rue87&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
