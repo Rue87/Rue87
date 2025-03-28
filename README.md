@@ -38,16 +38,16 @@ Feel free to connect and explore my repositories! I'm always open to feedback an
 ## Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com">
+  <a href="www.linkedin.com/in/runyararo-marongwe-24835279">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="29" height="22" alt="LinkedIn logo"/>
   </a>
-  <a href="https://discord.com">
+  <a href="https://discord.com/users/runyararo_87">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="29" height="22" alt="Discord logo"/>
   </a>
-  <a href="https://www.facebook.com">
+  <a href="https://www.facebook.com/runyararo.marongwe">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="29" height="22" alt="Facebook logo"/>
   </a>
-  <a href="https://telegram.org">
+  <a href="https://t.me/@Rue87">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="29" height="22" alt="Telegram logo"/>
   </a>
 </p>
