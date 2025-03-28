@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Runyararo Marongwe!
 
-I'm a passionate web development student, currently sharpening my skills in HTML, CSS, and responsive design. I'm eager to learn and build practical projects that showcase my progress.
+I'm a passionate web developer, currently sharpening my skills in HTML, CSS, and responsive design. I'm eager to learn and build practical projects that showcase my progress.
 
 Currently, I'm focusing on mastering CSS frameworks and building interactive web pages. You'll find my projects here, which reflect my ongoing journey and commitment to becoming a proficient front-end developer.
 
