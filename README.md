@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Runyararo Marongwe!
 
-I'm a passionate web developer with a strong foundation in HTML, CSS, and responsive design. I've successfully mastered Dynamic JavaScript, JSL, and React, and I'm eager to build interactive, modern web applications.
+I'm a passionate web developer with a strong foundation in HTML, CSS, and responsive design. I've successfully mastered Dynamic JavaScript, JSL, JSX and React, and I'm eager to build interactive, modern web applications.
 
 You'll find my practical projects here, reflecting my ongoing journey and commitment to becoming a proficient front-end developer. 
 
