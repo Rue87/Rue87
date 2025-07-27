@@ -36,7 +36,7 @@ Feel free to connect and explore my repositories! I'm always open to feedback an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="javascript logo" />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22" alt="react logo" />
-</p>-
+</p>
 
 ## Connect With Me
 
