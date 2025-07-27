@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Runyararo Marongwe!
 
-I'm a passionate web developer, currently sharpening my skills in HTML, CSS, and responsive design. I'm eager to learn and build practical projects that showcase my progress.
+I'm a passionate web developer with a strong foundation in HTML, CSS, and responsive design. I've successfully mastered Dynamic JavaScript, JSL, and React, and I'm eager to build interactive, modern web applications.
 
-Currently, I'm focusing on mastering CSS frameworks and building interactive web pages. You'll find my projects here, which reflect my ongoing journey and commitment to becoming a proficient front-end developer.
+You'll find my practical projects here, reflecting my ongoing journey and commitment to becoming a proficient front-end developer. 
 
 Feel free to connect and explore my repositories! I'm always open to feedback and collaboration.
 
@@ -10,18 +10,17 @@ Feel free to connect and explore my repositories! I'm always open to feedback an
 
 ✨ Debugging enthusiast.
 
-📚 I'm currently learning CSS Frameworks.
+🛠️ Actively applying **CSS frameworks** to build polished user interfaces.
 
 🎯 Goals:
 
 
 
 
-    -  Master the fundamentals of React and Node.js.
-    -  Build a portfolio of at least 3 projects showcasing my skills in front-end development.
-    -  Contribute to at least one open-source project.
-    -  Continuously learn and stay up-to-date with the latest web development trends.
-    -  Secure an entry-level front-end developer position.
+    -  Build a strong portfolio of front-end projects.
+    -  Contribute to open-source.
+    -  Continuously learn and adapt to new web trends.
+    -  Secure an entry-level front-end developer role.
 
 🎲 Fun fact: "I once debugged a CSS issue for hours, only to find a missing pixel."
 
@@ -33,7 +32,11 @@ Feel free to connect and explore my repositories! I'm always open to feedback an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" alt="css3 logo" />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="22" alt="git logo" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/JS/JS-original.svg" height="22" alt="JS logo" />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/React/React-original.svg" height="22" alt="React logo" />
+  <img width="7" />
+</p>-
 
 ## Connect With Me
 
